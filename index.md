@@ -39,7 +39,7 @@ Tentative, periodically updated throughout the semester
 # Grading Policy
 
 Homeworks: 10%  
-Project: 20% 
-Seminar: 10%
+Project: 20%  
+Seminar: 10%  
 Midterm: 25%  
 Final exam: 35%  
