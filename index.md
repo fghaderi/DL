@@ -8,43 +8,35 @@ Dr. Foad Ghaderi
   [quera](https://quera.ir/course/3649/)
 
 # Course Description
+The main purpose of this course is to 
+In this course, we focus on basic concepts and principles underlying discrete-time signal processing. Along with the required mathematical basis, practical applications of the methods will be reviewd through programming examples and exercises.
 
 
+# Prerequisites
+- Basic concepts of signals and systems (the required concpets will be reviewed at the begining of the course).
+- Basic programming knowledge (programming will be in python).
 
-## Welcome to GitHub Pages
+# Syllabus  
+Tentative, periodically updated throughout the semester  
+- Introduction [slide1](https://fghaderi.github.io/DSP/slides/1_Introduction.pdf)
+- Signals and Systems [slide2](https://fghaderi.github.io/DSP/slides/2_Signals_and_systems.pdf)
+- Z transform [slide3](https://fghaderi.github.io/DSP/slides/3_Z-ransform.pdf)
+- Fourier representation of signals [slide4](https://fghaderi.github.io/DSP/slides/4_Fourier_representation_of_signals.pdf)
+- Transform analysis of LTI systems [slide5](https://fghaderi.github.io/DSP/slides/5_Transform_analysis_of_LTI_systems.pdf)
+- Sampling of continuous-time signals [slide6](https://fghaderi.github.io/DSP/slides/6_Sampling_of_continuous-time_signals.pdf)
+- Design of FIR filters [slide7](https://fghaderi.github.io/DSP/slides/7_Design_of_FIR_filters.pdf)
+- Design of IIR filters [slide8](https://fghaderi.github.io/DSP/slides/8_Design_of_IIR_filters.pdf)
 
-You can use the [editor on GitHub](https://github.com/fghaderi/DL/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sample python codes used in the lectures [codes](https://github.com/fghaderi/DSP/tree/master/code)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# BOOKS AND REFERENCES
+- Manolakis, Dimitris G., and Vinay K. Ingle. Applied digital signal processing: theory and practice. Cambridge University Press, 2011. [Cambridge University Press](https://www.cambridge.org/ir/academic/subjects/engineering/communications-and-signal-processing/applied-digital-signal-processing-theory-and-practice?format=HB)  
+- Downey, Allen B. Think DSP: digital signal processing in Python. " O'Reilly Media, Inc.", 2016. [github](https://github.com/AllenDowney/ThinkDSP)  
+- Unpingco, José. Python for Signal Processing. Springer International Pu, 2016.[springer](https://www.springer.com/gp/book/9783319013411)
 
-### Markdown
+# Grading Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fghaderi/DL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Homeworks: 15%  
+Project: 20%  
+Midterm: 30%  
+Final exam: 35%  
