@@ -5,7 +5,7 @@ Dr. Foad Ghaderi
   Tarbiat Modares University  
   Tehran, Iran  
   email: fghaderi[at]modares.ac.ir  
-  [quera](https://quera.ir/course/3649/)
+  [quera](https://quera.ir/course/5009/)
 
 # Course Description
 The purpose of this course is to review the main concpets behind the deep neural networks. We learn about the required maths for developing different neural network architectures. Important deep architectures including convolutional neural networks, recurrent neural networks, autoencoders, etc. will be reviewed. 
