@@ -1,3 +1,16 @@
+# Instructor
+Dr. Foad Ghaderi
+
+  Electrical and Computer Engineering Department  
+  Tarbiat Modares University  
+  Tehran, Iran  
+  email: fghaderi[at]modares.ac.ir  
+  [quera](https://quera.ir/course/3649/)
+
+# Course Description
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fghaderi/DL/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
