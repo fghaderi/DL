@@ -18,7 +18,7 @@ The purpose of this course is to review the main concpets behind the deep neural
 # Syllabus  
 Tentative, periodically updated throughout the semester  
 - Introduction [slide1](https://fghaderi.github.io/DL/slides/01-Introduction.pdf)
-- Linear Algebra [slide2](https://fghaderi.github.io/DL/slides/02-Linear_Algebra.pdf)[video](http://cloud.modares.ac.ir/public.php?service=files&t=60be2478f2aa8d087f1af19cac9c138a)
+- Linear Algebra [slide2](https://fghaderi.github.io/DL/slides/02-Linear_Algebra.pdf), [video](http://cloud.modares.ac.ir/public.php?service=files&t=3fb4d4979c1d71e184a7cc479dac3403)
 - Probability and Information Theory
 - Numerical Computation
 - Machine Learning Basics
