@@ -20,7 +20,17 @@ Tentative, periodically updated throughout the semester
 - Introduction [slide](https://fghaderi.github.io/DL/slides/01-Introduction.pdf)
 - Linear Algebra [slide](https://fghaderi.github.io/DL/slides/02-Linear_Algebra.pdf), [video](http://cloud.modares.ac.ir/public.php?service=files&t=3fb4d4979c1d71e184a7cc479dac3403)
 - Probability and Information Theory [slide](https://fghaderi.github.io/DL/slides/03-Probability_and_Information_Theory.pdf), [video1](http://cloud.modares.ac.ir/public.php?service=files&t=a8c1575e11524b1adf171642d00d2f11), [video2](http://cloud.modares.ac.ir/public.php?service=files&t=8d1d5b0440de3c90f862341c88a68239), [video3](http://cloud.modares.ac.ir/public.php?service=files&t=1d63d51584c8c80f3006fc97907a8f79), [video4](http://cloud.modares.ac.ir/public.php?service=files&t=f61abd239cd3be281d7371e1a867b938) 
-- Numerical Computation
+- Numerical Computation [slide](https://fghaderi.github.io/DL/slides/04-Numerical_Computation.pdf), 
+[video1](http://cloud.modares.ac.ir/public.php?service=files&t=48aab6e083db3ec26deb42a6a505755d),
+[video2](http://cloud.modares.ac.ir/public.php?service=files&t=85908926f7b6b87d0b8f299a078980c2),
+[video3](http://cloud.modares.ac.ir/public.php?service=files&t=12ce186c01a29ab7dc33ff6458e43b54),
+[video4](http://cloud.modares.ac.ir/public.php?service=files&t=3a887fa4c23ba832f247c7d47868839d),
+[video5](http://cloud.modares.ac.ir/public.php?service=files&t=81473f7ff70cd707fb42cf800afce3a7),
+[video6](http://cloud.modares.ac.ir/public.php?service=files&t=9222f44f9f4b1de75401e6ec5b2fe3d1),
+[video7](http://cloud.modares.ac.ir/public.php?service=files&t=95ba439bcd7325961af8ce2b4d73676d),
+[video8](http://cloud.modares.ac.ir/public.php?service=files&t=a9d7cc1f6413affc4a7616fd4f12c413),
+[video9](http://cloud.modares.ac.ir/public.php?service=files&t=9d9440c7a821e1131bd2a355f134aada),
+[video10](http://cloud.modares.ac.ir/public.php?service=files&t=d9fb6647fe3b7879e54becb971ac8c70),
 - Machine Learning Basics
 - Deep feedforward networks
 - Convolutional Neural Networks
