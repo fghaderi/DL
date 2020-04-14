@@ -30,8 +30,17 @@ Tentative, periodically updated throughout the semester
 [video7](http://cloud.modares.ac.ir/public.php?service=files&t=95ba439bcd7325961af8ce2b4d73676d),
 [video8](http://cloud.modares.ac.ir/public.php?service=files&t=a9d7cc1f6413affc4a7616fd4f12c413),
 [video9](http://cloud.modares.ac.ir/public.php?service=files&t=9d9440c7a821e1131bd2a355f134aada),
-[video10](http://cloud.modares.ac.ir/public.php?service=files&t=d9fb6647fe3b7879e54becb971ac8c70),
-- Machine Learning Basics
+[video10](http://cloud.modares.ac.ir/public.php?service=files&t=d9fb6647fe3b7879e54becb971ac8c70)
+- Machine Learning Basics [slide](https://fghaderi.github.io/DL/slides/05-Machine_Learning_Basics.pdf),
+[video1](http://cloud.modares.ac.ir/public.php?service=files&t=1499093f4c2850dfe4ba4e4e3a1c44ae),
+[video2](http://cloud.modares.ac.ir/public.php?service=files&t=d71156a5e44c34032b0ba163e918f844),
+[video3](http://cloud.modares.ac.ir/public.php?service=files&t=0be35d7aad7a38779b50b71ec7307de3),
+[video4](http://cloud.modares.ac.ir/public.php?service=files&t=e87863aaec390f8e99549928c3ee7cc3),
+[video5](http://cloud.modares.ac.ir/public.php?service=files&t=8238dd82b9862c571007c22835bd146f),
+[video6](http://cloud.modares.ac.ir/public.php?service=files&t=0a7a5f3063007d4541d77fc11e2beb6c),
+[video7](http://cloud.modares.ac.ir/public.php?service=files&t=3d34dae494a10b8edb4109bd5c9646b9),
+[video8](http://cloud.modares.ac.ir/public.php?service=files&t=82b72ef4e284d840d82d3f2d90c7bbeb)
+
 - Deep feedforward networks
 - Convolutional Neural Networks
 - Sequence Modeling- Recurrent and Recursive Nets
