@@ -41,7 +41,13 @@ Tentative, periodically updated throughout the semester
 [video7](http://cloud.modares.ac.ir/public.php?service=files&t=3d34dae494a10b8edb4109bd5c9646b9),
 [video8](http://cloud.modares.ac.ir/public.php?service=files&t=82b72ef4e284d840d82d3f2d90c7bbeb)
 
-- Deep feedforward networks
+- Deep feedforward networks [slide](https://fghaderi.github.io/DL/slides/06-Deep_Feedforward_Networks.pdf),
+[video1](),
+[video1](),
+[video1](),
+[video1](),
+
+
 - Convolutional Neural Networks
 - Sequence Modeling- Recurrent and Recursive Nets
 - Autoencoders
