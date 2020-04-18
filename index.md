@@ -42,10 +42,10 @@ Tentative, periodically updated throughout the semester
 [video8](http://cloud.modares.ac.ir/public.php?service=files&t=82b72ef4e284d840d82d3f2d90c7bbeb)
 
 - Deep feedforward networks [slide](https://fghaderi.github.io/DL/slides/06-Deep_Feedforward_Networks.pdf),
-[video1](),
-[video1](),
-[video1](),
-[video1](),
+[video1](https://drive.google.com/file/d/1L6skWsGg50dIMXAZXZuC6OqM3Rm_GjIE/view?usp=sharing),
+[video2](https://drive.google.com/file/d/15pMs_6TmC1A3mvHbj_Iy84AbAc2dYVcK/view?usp=sharing),
+[video3](https://drive.google.com/file/d/1iQigkZnChKSLSqcZwFUNyWZmrgO4Ys8C/view?usp=sharing),
+[video4](https://drive.google.com/file/d/117070YThgqePMoP30rWQ93zRApxsKhEa/view?usp=sharing),
 
 
 - Convolutional Neural Networks
