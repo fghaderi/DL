@@ -46,6 +46,11 @@ Tentative, periodically updated throughout the semester
 [video2](https://drive.google.com/file/d/15pMs_6TmC1A3mvHbj_Iy84AbAc2dYVcK/view?usp=sharing),
 [video3](https://drive.google.com/file/d/1iQigkZnChKSLSqcZwFUNyWZmrgO4Ys8C/view?usp=sharing),
 [video4](https://drive.google.com/file/d/117070YThgqePMoP30rWQ93zRApxsKhEa/view?usp=sharing),
+[video5](https://drive.google.com/file/d/16w3qkj71xG795ua6uDyr61VbRBVM_qWH/view?usp=sharing),
+[video6](https://drive.google.com/file/d/16w2RDo0urUON1pA_kbVt_7ZsMI5dTNcz/view?usp=sharing),
+[video7](https://drive.google.com/file/d/1VPW7s8yS7xJfe1NHlrG5yh1-GW8pIXfd/view?usp=sharing),
+[video8](https://drive.google.com/file/d/1nD1nQPP7MQx8A4VqXeLlrKwroYAj6ZgP/view?usp=sharing),
+[video9](https://drive.google.com/file/d/1vN702dqe_pCNst8-T-1DeqvyaR4iu1GI/view?usp=sharing),
 
 
 - Convolutional Neural Networks
